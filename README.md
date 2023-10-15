@@ -1,3 +1,3 @@
 # python
 Just a python program
-iam doin this for my python hub class
+iam doing this for my python hub class
